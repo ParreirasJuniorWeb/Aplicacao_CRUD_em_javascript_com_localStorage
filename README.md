@@ -1,0 +1,2 @@
+**Aplicação para Criar, Atualização, Visualizar e Remover dados em uma tabela pelo usuário via javascript e localStorage - para armazenamento temporário das informações inseridas pelos usuários**
+Aplicação CRUD (Criação, Leitura, Atualização e Remoção de dados) em javascript, feita com a tecnologia de armazenamento temporária 'localStorage' - para armazenamento volátil na memória (cache) do navegador do usuário dessa aplicação.
